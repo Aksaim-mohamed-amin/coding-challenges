@@ -3,7 +3,7 @@ import java.util.Set;
 
 public class Main {
 	public static void main(String[] args) {
-		String s = "aab";
+		String s = "abb";
 		System.out.println(lengthOfLongestSubstring(s));
 	}
 
